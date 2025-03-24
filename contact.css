@@ -137,6 +137,7 @@ textarea {
     height: 950px;
     width: 750px;
     margin-bottom: -75px;
+    border-radius: 16px;
   }
 
   input,
@@ -208,6 +209,7 @@ textarea {
     height: 830px;
     width: 320px;
     margin-bottom: 0;
+    border-radius: 14px;
   }
 
   input,
