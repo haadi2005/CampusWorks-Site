@@ -1,7 +1,3 @@
-/* * {
-  border: 1px solid black;
-} */
-
 .center {
   margin: 50px clamp(40px, 14.1vw, 270px) 0 clamp(40px, 14.1vw, 270px);
 }
